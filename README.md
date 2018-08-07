@@ -22,7 +22,7 @@ $ lodash core -o ./dist/lodash.core.js
 
  * [Core build](https://raw.githubusercontent.com/lodash/lodash/4.17.10-npm/core.js) ([~4 kB gzipped](https://raw.githubusercontent.com/lodash/lodash/4.17.10-npm/core.min.js))
  * [Full build](https://raw.githubusercontent.com/lodash/lodash/4.17.10-npm/lodash.js) ([~24 kB gzipped](https://raw.githubusercontent.com/lodash/lodash/4.17.10-npm/lodash.min.js))
- * [CDN copies](https://www.jsdelivr.com/projects/lodash) [![jsDelivr Hits](https://data.jsdelivr.com/v1/package/npm/lodash/badge)](https://www.jsdelivr.com/package/npm/lodash) [![GuardRails Staging badge](https://badges.staging.guardrails.io/fictional-tribble/lodash--lodash.svg)](https://www.staging.guardrails.io)
+ * [CDN copies](https://www.jsdelivr.com/projects/lodash) [![jsDelivr Hits](https://data.jsdelivr.com/v1/package/npm/lodash/badge)](https://www.jsdelivr.com/package/npm/lodash) [![GuardRails Staging badge](https://badges.staging.guardrails.io/fictional-tribble/lodash--lodash.svg)](https://www.staging.guardrails.io) [![GuardRails badge](https://badges.production.guardrails.io/fictional-tribble/lodash--lodash.svg)](https://www.guardrails.io)
 
 Lodash is released under the [MIT license](https://raw.githubusercontent.com/lodash/lodash/4.17.10-npm/LICENSE) & supports modern environments.<br>
 Review the [build differences](https://github.com/lodash/lodash/wiki/build-differences) & pick one that’s right for you.
